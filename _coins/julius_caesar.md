@@ -17,7 +17,7 @@ image_reverse: coins/julius_caesar/caesar-rev.png
 image_aligned: coins/julius_caesar/caesar-aligned.png
 obverse_description: "Wreathed head of Caesar right; large eight-ray star behind; CAESAR IM[P]"
 reverse_description: "Venus standing left, head lowered to left, holding Victory in her right hand and long sceptre set on star in her left; P SEPVLLIVS behind, M[ACER] before."
-featured: false
+featured: true
 ---
 
 <div class="row mt-3">
