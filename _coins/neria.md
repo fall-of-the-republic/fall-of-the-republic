@@ -1,7 +1,7 @@
 ---
 layout: coin
 title: "Denarius of Cn. Neria"
-period: Republican
+period: Imperatorial
 ruler: "Cn. Neria"
 mint: "Rome"
 denomination: Denarius
