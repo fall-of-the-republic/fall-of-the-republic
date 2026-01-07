@@ -29,7 +29,7 @@ images:
   <div class="col-md-8">
     <blockquote>
       <p>He [Pompey] celebrated the triumph in honour of all his wars at once, including in it many trophies beauti­fully decked out to represent each of his achievements, even the smallest; and after them all came one huge one, decked out in costly fashion and bearing an inscription stating that it was a trophy of the inhabited world ...  These [honors] consisted in the privilege of always wearing the laurel wreath at all public games, and arraying himself in the cloak of a general at all of them, as well as in the triumphal garb at the horse-races. They had been granted him chiefly through the cooperation of Caesar, and contrary to the advice of Marcus Cato.</p>
-      <footer>— <a href="https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/37*.html" target="_blank">Cassius Dio xxxvii, 21, 2 and 4</a></footer>
+      <footer>— <a href="https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/37*.html#21" target="_blank">Cassius Dio xxxvii, 21, 2 and 4</a></footer>
     </blockquote>
   </div>
 </div>
