@@ -5,7 +5,7 @@ period: Imperatorial
 ruler: "Julius Caesar"
 mint: Rome
 denomination: Denarius
-date_minted: "Jan/Feb 44 BC"
+date_minted: "Jan/Feb 44 BCE"
 sort_date: -44
 reference: '<a href="https://numismatics.org/crro/results?q=480%2F5b" target="_blank">Crawford 480/5b</a>; CRI 106a; BMCRR 4165'
 metal: Silver

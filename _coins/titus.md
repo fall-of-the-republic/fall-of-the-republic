@@ -5,7 +5,7 @@ period: Imperial
 ruler: "Titus"
 mint: Rome
 denomination: Denarius
-date_minted: "80 AD"
+date_minted: "80 CE"
 sort_date: 80
 reference: '<a href="https://numismatics.org/ocre/id/ric.2_1(2).tit.128">RIC II.1<sup>2</sup> 128</a>'
 metal: Silver

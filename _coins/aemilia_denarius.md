@@ -5,7 +5,7 @@ period: Republican
 ruler: "Lucius Aemilius Paullus"
 mint: Rome
 denomination: Denarius
-date_minted: "62 BC"
+date_minted: "62 BCE"
 sort_date: -62
 reference: '<a href="http://numismatics.org/crro/id/rrc-415.1">Crawford 415/1</a>'
 metal: Silver

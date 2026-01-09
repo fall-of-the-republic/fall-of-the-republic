@@ -5,7 +5,7 @@ period: Imperial
 ruler: "Marcus Aurelius"
 mint: Rome
 denomination: Denarius
-date_minted: "166 AD"
+date_minted: "166 CE"
 sort_date: 166
 reference: '<a href="http://numismatics.org/ocre/id/ric.3.m_aur.159">RIC III 159</a>'
 metal: Silver

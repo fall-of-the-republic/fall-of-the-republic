@@ -5,7 +5,7 @@ period: Imperatorial
 ruler: "Octavian"
 mint: Rome
 denomination: Denarius
-date_minted: "30/29 BC"
+date_minted: "30/29 BCE"
 sort_date: -30
 reference: "RIC 266; CRI 421"
 metal: Silver

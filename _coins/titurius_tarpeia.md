@@ -5,7 +5,7 @@ period: Republican
 ruler: "L. Titurius L.f. Sabinus"
 mint: Rome
 denomination: Denarius
-date_minted: "89 BC"
+date_minted: "89 BCE"
 sort_date: -89
 reference: '<a href="http://numismatics.org/crro/id/rrc-344.2b">Crawford 344/2b</a>'
 metal: Silver

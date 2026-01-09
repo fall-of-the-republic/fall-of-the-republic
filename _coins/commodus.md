@@ -5,7 +5,7 @@ period: Imperial
 ruler: "Commodus"
 mint: Rome
 denomination: Denarius
-date_minted: "180/181 AD"
+date_minted: "180/181 CE"
 sort_date: 180
 reference: '<a href="http://numismatics.org/ocre/id/ric.3.com.12">RIC III 12</a>'
 metal: Silver

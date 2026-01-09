@@ -5,7 +5,7 @@ period: Republican
 ruler: "L. Manlius Torquatus"
 mint: Military mint traveling with Sulla
 denomination: Denarius
-date_minted: "82 BC"
+date_minted: "82 BCE"
 sort_date: -82
 reference: '<a href="https://numismatics.org/crro/id/rrc-367.5">Crawford 367/5</a>'
 metal: Silver

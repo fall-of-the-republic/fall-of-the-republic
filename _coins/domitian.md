@@ -5,7 +5,7 @@ period: Imperial
 ruler: "Domitian"
 mint: Rome
 denomination: Denarius
-date_minted: "92/93 AD"
+date_minted: "92/93 CE"
 sort_date: 92
 reference: '<a href="https://numismatics.org/ocre/id/ric.2_1(2).dom.740">RIC II.1<sup>2</sup> 740</a>'
 metal: Silver

@@ -5,8 +5,9 @@ period: Imperial
 ruler: Hadrian
 mint: Rome
 denomination: Denarius
-date_minted: "133 - c. 135AD"
-reference: 'RIC² II.3 2043; RIC 238'
+date_minted: "133 - c. 135 CE"
+sort_date: 133
+reference: '<a href="https://numismatics.org/ocre/id/ric.2_3(2).hdn.2043-2046">RIC² II.3 2043</a>; RIC 238'
 metal: Silver
 weight: "3.32g"
 diameter:

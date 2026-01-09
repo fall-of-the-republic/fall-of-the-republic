@@ -5,7 +5,7 @@ period: Imperial
 ruler: "Tiberius"
 mint: Rome
 denomination: Denarius
-date_minted: "14/37 AD"
+date_minted: "14/37 CE"
 sort_date: 14
 reference: '<a href="http://numismatics.org/crro/id/ric.1(2).ti.30">RIC I² 30</a>'
 metal: Silver

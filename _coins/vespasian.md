@@ -5,7 +5,7 @@ period: Imperial
 ruler: "Vespasian"
 mint: Rome
 denomination: Denarius
-date_minted: "74 AD"
+date_minted: "74 CE"
 sort_date: 74
 reference: '<a href="https://numismatics.org/ocre/id/ric.2_1(2).ves.685">RIC II.1<sup>2</sup> 685</a>'
 metal: Silver

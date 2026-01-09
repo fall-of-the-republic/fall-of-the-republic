@@ -5,7 +5,7 @@ period: Imperial
 ruler: "Antoninus Pius and Marcus Aurelius"
 mint: Rome
 denomination: Denarius
-date_minted: "140 AD"
+date_minted: "140 CE"
 sort_date: 140
 reference: '<a href="https://numismatics.org/ocre/id/ric.3.ant.417B">RIC III 417b</a>'
 metal: Silver

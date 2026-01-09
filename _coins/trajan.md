@@ -5,7 +5,7 @@ period: Imperial
 ruler: "Trajan"
 mint: Rome
 denomination: Denarius
-date_minted: "101/102 AD"
+date_minted: "101/102 CE"
 sort_date: 101
 reference: '<a href="https://numismatics.org/ocre/id/ric.2.tr.49_denarius">RIC II 49</a>'
 metal: Silver
