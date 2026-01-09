@@ -101,6 +101,11 @@ ninja.data = [{
           description: "",
           section: "Coins",handler: () => {
               window.location.href = "/coins/aemilia_denarius/";
+            },},{id: "coins-denarius-of-nero",
+          title: 'Denarius of Nero',
+          description: "",
+          section: "Coins",handler: () => {
+              window.location.href = "/coins/nero/";
             },},{id: "coins-denarius-of-vespasian",
           title: 'Denarius of Vespasian',
           description: "",
@@ -146,6 +151,21 @@ ninja.data = [{
           description: "",
           section: "Coins",handler: () => {
               window.location.href = "/coins/julius_caesar/";
+            },},{id: "coins-denarius-of-otho",
+          title: 'Denarius of Otho',
+          description: "",
+          section: "Coins",handler: () => {
+              window.location.href = "/coins/otho/";
+            },},{id: "coins-denarius-of-galba",
+          title: 'Denarius of Galba',
+          description: "",
+          section: "Coins",handler: () => {
+              window.location.href = "/coins/galba/";
+            },},{id: "coins-denarius-of-vitellius",
+          title: 'Denarius of Vitellius',
+          description: "",
+          section: "Coins",handler: () => {
+              window.location.href = "/coins/vitellius/";
             },},{id: "coins-denarius-of-cn-neria",
           title: 'Denarius of Cn. Neria',
           description: "",
