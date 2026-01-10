@@ -10,7 +10,7 @@ sort_date: -54
 reference: '<a href="http://numismatics.org/crro/id/rrc-433.2">Crawford 433/2</a>, BMCRR 3864'
 metal: Silver
 weight: "3.69g"
-grade: "VF"
+grade: "Very Fine"
 image_obverse: coins/brutus_ahala/brutus_ahala-obv.png
 image_reverse: coins/brutus_ahala/brutus_ahala-rev.png
 image_aligned: coins/brutus_ahala/brutus_ahala-aligned.png

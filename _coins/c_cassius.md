@@ -9,7 +9,7 @@ date_minted: "126 BCE"
 sort_date: -126
 reference: '<a href="http://numismatics.org/crro/id/rrc-266.1">Crawford 266/1</a>'
 metal: Silver
-grade: "VF"
+grade: "Very Fine"
 image_obverse: coins/c_cassius/c_cassius-obv.png
 image_reverse: coins/c_cassius/c_cassius-rev.png
 image_aligned: coins/c_cassius/c_cassius-aligned.png

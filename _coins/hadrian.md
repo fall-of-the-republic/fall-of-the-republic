@@ -11,7 +11,7 @@ reference: '<a href="https://numismatics.org/ocre/id/ric.2_3(2).hdn.2043-2046">R
 metal: Silver
 weight: "3.32g"
 diameter:
-grade: "VF"
+grade: "Very Fine"
 image_obverse: coins/hadrian/hadrian-obv.png
 image_reverse: coins/hadrian/hadrian-rev.png
 image_aligned: coins/hadrian/hadrian-aligned.png

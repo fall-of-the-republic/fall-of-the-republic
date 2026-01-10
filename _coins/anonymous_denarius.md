@@ -11,7 +11,7 @@ reference: '<a href="http://numismatics.org/crro/id/rrc-53.2">Crawford 53/2</a> 
 metal: Silver
 weight: "3.75g"
 diameter: "17.50mm"
-grade: "VF"
+grade: "Very Fine"
 image_obverse: coins/anonymous_denarius/anonymous_denarius-obv.png
 image_reverse: coins/anonymous_denarius/anonymous_denarius-rev.png
 image_aligned: coins/anonymous_denarius/anonymous_denarius-aligned.png

@@ -10,7 +10,7 @@ reference: '<a href="https://numismatics.org/crro/id/rrc-330.1">RRC 330/1</a>'
 metal: Silver
 weight: ""
 diameter: ""
-grade: ""
+grade: "Near Extra Fine"
 image_obverse: coins/capio_piso/obv.png
 image_reverse: coins/capio_piso/rev.png
 image_aligned: coins/capio_piso/aligned.png
