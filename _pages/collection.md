@@ -87,6 +87,10 @@ nav_order: 2
   background: #000000;
   border: none;
   padding: 1rem;
+  aspect-ratio: 2 / 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .showcase-item:hover {
@@ -95,7 +99,7 @@ nav_order: 2
 
 .showcase-item img {
   width: 100%;
-  height: auto;
+  height: 100%;
   object-fit: contain;
   display: block;
 }
