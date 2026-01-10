@@ -1,8 +1,8 @@
 ---
 layout: coin
-title: "Denarius of Cn. Neria"
+title: "Denarius of Cn. Nerius"
 period: Imperatorial
-ruler: "Cn. Neria"
+ruler: "Cn. Nerius"
 mint: "Rome"
 denomination: Denarius
 date_minted: "early January 49 BCE"
