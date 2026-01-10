@@ -20,3 +20,5 @@ reverse_description: "CONCORDIA P R; Concordia seated left on throne, holding pa
 featured: false
 
 ---
+
+Photos copyright Numismatik Naumann.
