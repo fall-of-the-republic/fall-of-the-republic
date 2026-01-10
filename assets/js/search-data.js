@@ -86,6 +86,11 @@ ninja.data = [{
           description: "",
           section: "Coins",handler: () => {
               window.location.href = "/coins/pansa_brutus/";
+            },},{id: "coins-denarius-of-q-sicinius",
+          title: 'Denarius of Q. Sicinius',
+          description: "",
+          section: "Coins",handler: () => {
+              window.location.href = "/coins/sicinius/";
             },},{id: "coins-denarius-of-m-junius-brutus",
           title: 'Denarius of M. Junius Brutus',
           description: "",
@@ -171,6 +176,11 @@ ninja.data = [{
           description: "",
           section: "Coins",handler: () => {
               window.location.href = "/coins/vitellius/";
+            },},{id: "coins-denarius-of-m-porcius-cato",
+          title: 'Denarius of M. Porcius Cato',
+          description: "",
+          section: "Coins",handler: () => {
+              window.location.href = "/coins/m_porcius_cato/";
             },},{id: "coins-denarius-of-cn-nerius",
           title: 'Denarius of Cn. Nerius',
           description: "",
