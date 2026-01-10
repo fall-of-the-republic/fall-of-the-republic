@@ -16,7 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/collection/";
           },
-        },{id: "coins-denarius-of-trajan",
+        },{id: "coins-denarius-of-l-saturnius",
+          title: 'Denarius of L. Saturnius',
+          description: "",
+          section: "Coins",handler: () => {
+              window.location.href = "/coins/saturnius/";
+            },},{id: "coins-denarius-of-trajan",
           title: 'Denarius of Trajan',
           description: "",
           section: "Coins",handler: () => {
@@ -166,8 +171,8 @@ ninja.data = [{
           description: "",
           section: "Coins",handler: () => {
               window.location.href = "/coins/vitellius/";
-            },},{id: "coins-denarius-of-cn-neria",
-          title: 'Denarius of Cn. Neria',
+            },},{id: "coins-denarius-of-cn-nerius",
+          title: 'Denarius of Cn. Nerius',
           description: "",
           section: "Coins",handler: () => {
               window.location.href = "/coins/neria/";
