@@ -16,6 +16,6 @@ image_reverse: coins/mn_aquillius/mn_aquillius-rev.png
 image_aligned: coins/mn_aquillius/mn_aquillius-aligned.png
 obverse_description: "Helmeted bust of Virtus, right, draped. Border of dots; VIRTVS IIIVIR"
 reverse_description: "Warrior, holding shield in left hand and raising up fallen figure with right hand. Border of dots; SICIL M͡N·AQVIL M͡N·F·M͡N·N"
-featured: true
+featured: false
 sort_date: -61
 ---
