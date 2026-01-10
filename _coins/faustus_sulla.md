@@ -6,7 +6,7 @@ ruler: Faustus Cornelius Sulla
 mint: Rome
 denomination: Denarius
 date_minted: "56 BCE"
-sort_date: -56
+sort_date: -56.4
 reference: '<a href="https://numismatics.org/crro/id/rrc-426.4b" target="_blank">Crawford 426/4b</a>'
 metal: Silver
 weight: "3.73g"
