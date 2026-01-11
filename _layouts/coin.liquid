@@ -115,8 +115,45 @@ layout: default
     {% endif %}
   </article>
 
+  {% assign sorted_coins = site.coins | sort: "sort_date" %}
+  {% assign current_index = -1 %}
+  {% for coin in sorted_coins %}
+    {% if coin.url == page.url %}
+      {% assign current_index = forloop.index0 %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+  
+  {% if current_index > 0 %}
+    {% assign prev_index = current_index | minus: 1 %}
+    {% assign prev_coin = sorted_coins[prev_index] %}
+  {% endif %}
+  
+  {% assign next_index = current_index | plus: 1 %}
+  {% if next_index < sorted_coins.size %}
+    {% assign next_coin = sorted_coins[next_index] %}
+  {% endif %}
+
   <div class="coin-navigation">
-    <a href="{{ '/collection/' | relative_url }}" class="back-link">&larr; Back to Collection</a>
+    <div class="nav-prev">
+      {% if prev_coin %}
+        <a href="{{ prev_coin.url | relative_url }}" class="nav-link" title="{{ prev_coin.title }}">
+          &larr; {{ prev_coin.title }}
+        </a>
+      {% endif %}
+    </div>
+    
+    <div class="nav-center">
+      <a href="{{ '/collection/' | relative_url }}" class="back-link">Back to Collection</a>
+    </div>
+    
+    <div class="nav-next">
+      {% if next_coin %}
+        <a href="{{ next_coin.url | relative_url }}" class="nav-link" title="{{ next_coin.title }}">
+          {{ next_coin.title }} &rarr;
+        </a>
+      {% endif %}
+    </div>
   </div>
 </div>
 
@@ -229,17 +266,41 @@ layout: default
 }
 
 .coin-navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   margin-top: 3rem;
   padding-top: 2rem;
   border-top: 1px solid var(--global-divider-color);
+  gap: 1rem;
 }
 
+.nav-prev,
+.nav-next {
+  flex: 1;
+}
+
+.nav-prev {
+  text-align: left;
+}
+
+.nav-center {
+  flex: 0 0 auto;
+  text-align: center;
+}
+
+.nav-next {
+  text-align: right;
+}
+
+.nav-link,
 .back-link {
   color: var(--global-theme-color);
   text-decoration: none;
   font-weight: 500;
 }
 
+.nav-link:hover,
 .back-link:hover {
   text-decoration: underline;
 }
