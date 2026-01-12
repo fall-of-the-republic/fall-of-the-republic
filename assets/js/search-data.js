@@ -16,7 +16,174 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/collection/";
           },
-        },{id: "coins-denarius-of-q-servilius-caepio-and-l-calpurnius-piso",
+        },{id: "nav-books",
+          title: "Books",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/books/";
+          },
+        },{id: "books-the-landmark-julius-caesar-the-complete-works",
+          title: 'The Landmark Julius Caesar : The Complete Works',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/author_the_landmark_julius_caesar_t/";
+            },},{id: "books-emperor-of-rome",
+          title: 'Emperor of Rome',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/beard_emperor_of_rome/";
+            },},{id: "books-rome-in-the-late-republic",
+          title: 'Rome in the late Republic',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/beard_rome_in_the_late_republic/";
+            },},{id: "books-the-fires-of-vesuvius",
+          title: 'The fires of Vesuvius',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/beard_the_fires_of_vesuvius/";
+            },},{id: "books-twelve-caesars",
+          title: 'Twelve Caesars',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/beard_twelve_caesars/";
+            },},{id: "books-the-magistrates-of-the-roman-republic",
+          title: 'The Magistrates of the Roman Republic',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/broughton_magistrates_roman_republic/";
+            },},{id: "books-the-roman-provinces-300-bce-300-ce-using-coins-as-sources",
+          title: 'The Roman Provinces, 300 BCE-300 CE Using Coins as Sources',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/burnett_the_roman_provinces_300_bce_3/";
+            },},{id: "books-roman-republican-coinage",
+          title: 'Roman Republican coinage',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/crawford_roman_republican_coinage/";
+            },},{id: "books-the-roman-republic",
+          title: 'The Roman Republic',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/crawford_the_roman_republic_fontana_hi/";
+            },},{id: "books-cambridge-companion-to-the-roman-republic",
+          title: 'Cambridge Companion to the Roman Republic',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/flower_cambridge_companion_to_the_rom/";
+            },},{id: "books-roman-republics",
+          title: 'Roman Republics',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/flower_roman_republics/";
+            },},{id: "books-the-encyclopedia-of-the-roman-empire",
+          title: 'The Encyclopedia of the Roman Empire',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/gomez_encyclopedia_roman_empire/";
+            },},{id: "books-guide-to-biblical-coins",
+          title: 'Guide to Biblical coins',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/hendin_guide_to_biblical_coins/";
+            },},{id: "books-athenian-empire-using-coins-as-sources",
+          title: 'Athenian Empire: Using Coins as Sources',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/kallet_athenian_empire/";
+            },},{id: "books-unruly",
+          title: 'Unruly',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/mitchell_unruly/";
+            },},{id: "books-coins-of-the-roman-republic-in-the-british-museum",
+          title: 'Coins of the Roman Republic in the British Museum',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/museum_coins_of_the_roman_republic_in/";
+            },},{id: "books-your-cheeky-guide-to-the-roman-empire",
+          title: 'Your Cheeky Guide to the Roman Empire',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/radford_your_cheeky_guide_to_the_roman/";
+            },},{id: "books-companion-to-the-roman-republic",
+          title: 'Companion to the Roman Republic',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/rosenstein_companion_to_the_roman_republi/";
+            },},{id: "books-from-caesar-to-augustus",
+          title: 'From Caesar to Augustus',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/rowan_from_caesar_to_augustus/";
+            },},{id: "books-insane-emperors-sunken-cities-and-earthquake-machines",
+          title: 'Insane Emperors, Sunken Cities, and Earthquake Machines',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ryan_insane_emperors_sunken_cities/";
+            },},{id: "books-naked-statues-fat-gladiators-and-war-elephants",
+          title: 'Naked Statues, Fat Gladiators, and War Elephants',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ryan_naked_statues_fat_gladiators/";
+            },},{id: "books-from-the-gracchi-to-nero",
+          title: 'From the Gracchi to Nero',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/scullard_from_gracchi_to_nero/";
+            },},{id: "books-history-and-coinage-of-the-roman-imperators-49-27-bc",
+          title: 'History and Coinage of the Roman Imperators 49-27 BC',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/sear_history_and_coinage_of_the_rom/";
+            },},{id: "books-spqr-a-history-of-ancient-rome",
+          title: 'SPQR: A History of Ancient Rome',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/spqr_mary_beard/";
+            },},{id: "books-the-storm-before-the-storm-the-beginning-of-the-end-of-the-roman-republic",
+          title: 'The Storm Before the Storm: The Beginning of the End of the Roman...',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/storm_before_storm/";
+            },},{id: "books-roman-imperial-coinage",
+          title: 'Roman Imperial Coinage',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/sutherland_roman_imperial_coinage/";
+            },},{id: "books-hellenistic-world-using-coins-as-sources",
+          title: 'Hellenistic World: : Using Coins as Sources',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/thonemann_hellenistic_world/";
+            },},{id: "books-palatine-the-four-emperors-series",
+          title: 'Palatine : The Four Emperors Series',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/trafford_palatine_the_four_emperors_s/";
+            },},{id: "books-the-rbw-collection-of-roman-republican-coins",
+          title: 'The RBW Collection of Roman Republican Coins',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/vagi_the_rbw_collection_of_roman_re/";
+            },},{id: "books-italian-cast-coinage-a-descriptive-catalogue-of-the-cast-bronze-coinage-and-its-struck-counterparts-in-ancient-italy-from-the-7th-to-3rd-centuries-bc",
+          title: 'Italian Cast Coinage A Descriptive Catalogue of the Cast Bronze Coinage and Its...',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/vecchi_italian_cast_coinage_a_descrip/";
+            },},{id: "books-the-fall-of-rome",
+          title: 'The Fall of Rome',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/ward_perkins_the_fall_of_rome/";
+            },},{id: "books-roman-republic-to-49-bce-using-coins-as-sources",
+          title: 'Roman Republic to 49 BCE: Using Coins as Sources',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/yarrow_roman_republic_to_49_bce/";
+            },},{id: "coins-denarius-of-q-servilius-caepio-and-l-calpurnius-piso",
           title: 'Denarius of Q. Servilius Caepio and L. Calpurnius Piso',
           description: "",
           section: "Coins",handler: () => {
