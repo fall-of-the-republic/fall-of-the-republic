@@ -17,10 +17,18 @@ layout: page
             {% elsif item.isbn %}
               <img alt="{{ item.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ item.isbn }}-L.jpg?default=false" loading="lazy">
             {% endif %}
+            {% if item.status %}
+              <span class="book-status {{ item.status }}">{{ item.status }}</span>
+            {% endif %}
           </div>
           <div class="book-info">
             <h3>{{ item.title }}</h3>
             <p class="book-author">{{ item.author }}</p>
+            {% if item.rating %}
+              <p class="book-rating">
+                {% for i in (1..item.rating) %}★{% endfor %}{% for i in (item.rating..4) %}☆{% endfor %}
+              </p>
+            {% endif %}
           </div>
         </div>
       {% endfor %}
