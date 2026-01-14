@@ -53,6 +53,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/beard_twelve_caesars/";
+            },},{id: "books-100-greatest-ancient-coins",
+          title: '100 Greatest Ancient Coins',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/berk_100_greatest_ancient_coins/";
             },},{id: "books-the-magistrates-of-the-roman-republic",
           title: 'The Magistrates of the Roman Republic',
           description: "",
